@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Harsha Khatri!
-- 👀 I’m interested in coding, creating websites and innovation.
-- 🌱 I’m currently learning Front-End Development.
-- 📫 How to reach me: Linkedin is added in my profile :)
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I read books for fun too
+- 👋 Hi, I’m Harsha Khatri, living in Rajasthan, India! I’m interested in coding and making designs come to life. I'm currently learning Front-End Web Development. Linkedin added in my profile :)
 
 <!---
 harsha-k123/harsha-k123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
