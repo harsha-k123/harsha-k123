@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harsha Khatri!
 - 👀 I’m interested in coding, creating websites and innovation.
 - 🌱 I’m currently learning Front-End Development.
-- 📫 How to reach me: Linkedin profile is linked in my profile :)
+- 📫 How to reach me: Linkedin is added in my profile :)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I read books for fun too
 
